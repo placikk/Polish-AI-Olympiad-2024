@@ -27,6 +27,8 @@ The repository features implementations spanning deep learning model optimizatio
   <img src="quantization.jpg" alt="Color Quantization - Original vs Result" width="80%">
 </p>
 
+*Note: More visual examples and detailed comparisons can be found directly in the [`Color Quantization.ipynb`](Color%20Quantization.ipynb) notebook.*
+
 ### 3. Adversarial Network Attacks (PGD)
 **Score:** 1.00 / 1.00 | **SSIM:** 0.87 | **Max Distance:** 0.27 | **Time:** ~12.7s
 
