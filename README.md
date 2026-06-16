@@ -22,6 +22,11 @@ The repository features implementations spanning deep learning model optimizatio
 * Applied K-Means spatial clustering to derive the optimal base centroids minimizing Mean Squared Error (MSE).
 * Engineered a custom heuristic optimizer that dynamically anchors standard centroids toward the RGB cube vertices to penalize "dull" colors and strictly enforce deterministic output constraints.
 
+#### **Visual Results**
+<p align="center">
+  <img src="quantization.jpg" alt="Color Quantization - Original vs Result" width="80%">
+</p>
+
 ### 3. Adversarial Network Attacks (PGD)
 **Score:** 1.00 / 1.00 | **SSIM:** 0.87 | **Max Distance:** 0.27 | **Time:** ~12.7s
 
