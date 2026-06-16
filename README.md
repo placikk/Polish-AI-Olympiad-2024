@@ -1,8 +1,8 @@
 # Polish Artificial Intelligence Olympiad 2024 – Selected Solutions
 
-This repository contains my algorithmic and machine learning solutions for the **Polish Artificial Intelligence Olympiad 2024**, where I achieved the status of **Finalist (Top 30 in Poland)**[cite: 1]. 
+This repository contains my algorithmic and machine learning solutions for the **Polish Artificial Intelligence Olympiad 2024**, where I achieved the status of **Finalist (Top 30 in Poland)**. 
 
-The repository features implementations spanning deep learning model optimization, computer vision, adversarial robustness, and custom clustering algorithms. The solutions were developed in Python using PyTorch, NumPy, and scikit-learn[cite: 1].
+The repository features implementations spanning deep learning model optimization, computer vision, adversarial robustness, and custom clustering algorithms. The solutions were developed in Python using PyTorch, NumPy, and scikit-learn.
 
 ---
 
