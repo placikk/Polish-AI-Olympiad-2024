@@ -24,7 +24,7 @@ The repository features implementations spanning deep learning model optimizatio
 
 #### **Visual Results**
 <p align="center">
-  <img src="quantization.jpg" alt="Color Quantization - Original vs Result" width="80%">
+  <img src="quantization.png" alt="Color Quantization - Original vs Result" width="80%">
 </p>
 
 ### 3. Adversarial Network Attacks (PGD)
